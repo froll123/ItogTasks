@@ -16,7 +16,6 @@ public class main {
 
         logAction("Выполнены математические операции", new Date());
     }
-
     public static void logAction(String message, Date date) {
     }
 }
